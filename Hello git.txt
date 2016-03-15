@@ -1,3 +1,4 @@
 println("Hello Git!")
 println("Hello GitHub!")
 println("Hello my dear Friend!")
+println("conflict forward")
