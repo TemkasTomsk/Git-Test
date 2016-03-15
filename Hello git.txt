@@ -1,2 +1,2 @@
-println("Hello Git!")
-println("Hello GitHub!")
+println("Hello Git!");
+println("Hello GitHub!");
